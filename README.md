@@ -1,1 +1,2 @@
-# Programming_for_Data_Science_with_Python_Nanodegree
+# Programming for Data Science with Python Nanodegree
+![image](https://github.com/user-attachments/assets/060b2342-9a82-4674-96a7-5141e87509b0)
